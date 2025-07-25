@@ -3,6 +3,7 @@
 This is an optimized version of the original code (https://github.com/benzhenwen/V4-to-V3-lighting) with some improvements and bug fixes mainly...
 
 - fixup the input file JSON parsing
+- auto set the = output file path if not provided (<input>.v3.dat)
 - optimize for overall performance
 
 ---
